@@ -1,0 +1,11 @@
+/* Add your CSS styles here */
+
+/* Style the form layout */
+fieldset {
+  margin-bottom: 20px;
+}
+
+/* Style the checkboxes */
+input[type="checkbox"] {
+  margin-right: 10px;
+}
